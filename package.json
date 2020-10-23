@@ -38,7 +38,7 @@
     "@types/passport-local-mongoose": "^4.0.13"
   },
   "description": "web application development assignment 2",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ahmed-mb-ali/COMP229-Assignment-2-Express-Portfolio.git"
