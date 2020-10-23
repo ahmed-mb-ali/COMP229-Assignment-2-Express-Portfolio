@@ -1,0 +1,18 @@
+/*CSS file sheet*/
+/*
+Student Name: Ahmed Ali
+Student ID  : 301078214
+Date        : 09/10/2020
+*/
+
+
+/*Service Page Images*/
+.image-group { text-align: center; }
+ .image-group { display:inline-table; }
+ .image-group { display:inline; }
+
+ 
+ /*Centre the column in project page*/
+ .col1 { transition: transform .2s;  margin: 0 auto;}
+
+ 
