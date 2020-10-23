@@ -1,6 +1,6 @@
 {
-  "name": "web.week03---b",
-  "version": "0.0.0",
+  "name": "assignment2-express-portfolio",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -36,5 +36,17 @@
     "@types/passport": "^1.0.4",
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
-  }
+  },
+  "description": "web application development assignment 2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-mb-ali/COMP229-Assignment-2-Express-Portfolio.git"
+  },
+  "author": "Ahmed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-mb-ali/COMP229-Assignment-2-Express-Portfolio/issues"
+  },
+  "homepage": "https://github.com/ahmed-mb-ali/COMP229-Assignment-2-Express-Portfolio#readme"
 }
